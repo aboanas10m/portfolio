@@ -113,7 +113,6 @@ section {
 }
 
 .card {
-  background-color: #fff;
   width: 105%;
   box-shadow: 0 5px 25px rgba(1 1 1 / 15%);
   border-radius: 10px;
@@ -121,6 +120,7 @@ section {
   margin: 15px;
   transition: 0.7s ease;
    overflow: hidden;
+   background-color: #000000;
 }
 
 .card:hover {
