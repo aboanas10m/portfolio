@@ -9,7 +9,7 @@
 }
 
 header {
-  background-color: rgb(232, 232, 232);
+  background-color: green;
   width: 100%;
   position: fixed;
   display: flex;
